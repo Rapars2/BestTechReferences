@@ -232,3 +232,7 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+===================Suggestions by Ryan Parsley========================
+I found that tutorials point is a good reference to learn multiple programming languages with exAMPLES.
+https://www.tutorialspoint.com
+==========================================================================
